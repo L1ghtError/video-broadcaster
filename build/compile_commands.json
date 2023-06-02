@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Users_From_C/LightError/folder8/MyProjects/Cpp/FFmpegStream/build",
+  "command": "gcc  @CMakeFiles/VStream.dir/includes_C.rsp -g -o CMakeFiles\\VStream.dir\\src\\main.c.obj -c E:\\Users_From_C\\LightError\\folder8\\MyProjects\\Cpp\\FFmpegStream\\src\\main.c",
+  "file": "E:/Users_From_C/LightError/folder8/MyProjects/Cpp/FFmpegStream/src/main.c"
+}
+]

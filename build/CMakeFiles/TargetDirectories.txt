@@ -1,0 +1,3 @@
+E:/Users_From_C/LightError/folder8/MyProjects/Cpp/FFmpegStream/build/CMakeFiles/VStream.dir
+E:/Users_From_C/LightError/folder8/MyProjects/Cpp/FFmpegStream/build/CMakeFiles/edit_cache.dir
+E:/Users_From_C/LightError/folder8/MyProjects/Cpp/FFmpegStream/build/CMakeFiles/rebuild_cache.dir

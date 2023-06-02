@@ -1,0 +1,22 @@
+cimport.o: \
+  E:/Users_From_C/LightError/folder8/MyProjects/Cpp/FFmpegStream/zig-cache/o/b93c64b6523a32feb2cf17dea36e353b/cimport.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/stdlib.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/corecrt.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/_mingw.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/_mingw_mac.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/_mingw_secapi.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/include/vadefs.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/vadefs.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/sdks/_mingw_ddk.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/corecrt_wstdlib.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/include/limits.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/limits.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/crtdefs.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/sec_api/stdlib_s.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/malloc.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/include/mm_malloc.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/stdio.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/corecrt_stdio_config.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/_mingw_off_t.h \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/swprintf.inl \
+  C:/ProgramData/chocolatey/lib/zig/tools/zig-windows-x86_64-0.10.1/lib/libc/include/any-windows-any/sec_api/stdio_s.h

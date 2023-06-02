@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\VStream.dir/objects.a
+"D:\Program Files\mingw64\bin\ar.exe" qc CMakeFiles\VStream.dir/objects.a @CMakeFiles\VStream.dir\objects1.rsp
+gcc -g -Wl,--whole-archive CMakeFiles\VStream.dir/objects.a -Wl,--no-whole-archive -o VStream.exe -Wl,--out-implib,libVStream.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\VStream.dir\linklibs.rsp

@@ -1,0 +1,9 @@
+130074 281474978791360 1677915366264692200 43b7154bbbf33197e15bd97caca022fc E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\avcodec.lib
+14120 281474978791362 1677915366264692200 96f5270432698ac16c382b908e8914dd E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\avdevice.lib
+54590 281474978791364 1677915366280317200 a4c63d49a55c4da41b821605e9905e65 E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\avfilter.lib
+125328 281474978791366 1677915366280317200 289b9fdf02049f827f0a9fadb6d47c6e E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\avformat.lib
+462554 281474978791368 1677915366280317200 d880187a1654854f64a9956cae12699f E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\avutil.lib
+9548 281474978791378 1677915366280317200 755c29d6eb323aa5fa4b74b93924ac5f E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\postproc.lib
+21478 281474978791380 1677915366280317200 560512671b54ea959c0e01f9458fc2a5 E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\swresample.lib
+27032 281474978791382 1677915366280317200 0ac090d73c3e61417db5938cb3e359f5 E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\Dep\ffmpeg\lib\swscale.lib
+1642 562949954733021 1685363562372455600 db6f778acd9c3fedd89159fa6c52d896 E:\Users_From_C\LightError\folder8\MyProjects\Cpp\FFmpegStream\zig-cache\o\34a7e688994785bace05053a4678d2f8\main.obj

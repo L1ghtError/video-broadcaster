@@ -1,0 +1,45 @@
+cmake_minimum_required(VERSION 3.10)
+project(VStream)
+
+# Set the path to FFmpeg libraries
+set(FFMPEG_DIR ./Dep/ffmpeg)
+
+# Set the path to FFmpeg headers
+set(FFMPEG_INCLUDE_DIRS ${FFMPEG_DIR}/include)
+
+# Set the path to FFmpeg libraries
+set(FFMPEG_LIB_DIRS ${FFMPEG_DIR}/lib)
+
+# Add FFmpeg headers to the include directories
+include_directories(${FFMPEG_INCLUDE_DIRS})
+
+# Add FFmpeg libraries
+link_directories(${FFMPEG_LIB_DIRS})
+
+# Specify the AV libraries as SO files
+set(AV_LIBRARIES
+    avcodec
+    avdevice
+    avformat
+    avfilter
+    avutil
+    postproc
+    swresample
+    swscale
+)
+
+# Link against the AV libraries
+
+
+# Set the C and C++ compilers (replace g++ with your actual compiler name)
+set(CMAKE_C_COMPILER "gcc")
+set(CMAKE_CXX_COMPILER "g++")
+
+# Add your project source files
+set(SOURCES ./src/main.c)
+
+# Create the executable
+add_executable(VStream ${SOURCES})
+target_include_directories(VStream  PRIVATE ${FFMPEG_LIB_DIRS})
+set_target_properties(VStream PROPERTIES LINKER_LANGUAGE C)
+target_link_libraries(VStream ${AV_LIBRARIES})
